@@ -1,0 +1,16 @@
+GRANTHA SAHA,2305010,DSE,Student Bus 1,UFTB Admin Building -> Uttara
+MD.Mehidi Rabbi Jim,2305027,DSE,Student Bus 2,Kaliakoir -> Mirpur
+Rakib Hasan,2305015,DSE,Student Bus 1,Chandra -> Bypass road
+Sajib Das,2305029,DSE,Student Bus 2,Kaliakoir -> Chandra
+Arafat Islam,2305028,IRE,Student Bus 2,UFTB Academic Building -> DU campus
+Nafiz Muad,2305013,CySE,Student Bus 2,Chandra -> Dairy gate JU
+MD. Abul Ala Walid,DSE_Lec2003456,DSE,Staff Car 2,UFTB Academic Building -> UFTB Admin Building
+Tanjim Taharat Aurpa,DSE_Ch20003245,DSE,Staff Car 1,UFTB Admin Building -> JU Campus gate
+Moshiur Rahaman,SE_Ch216743,SE,Staff Car 1,UFTB Academic Building-1 -> UFTB Academic Building-2
+GS Saha,23050100,DSE,Student Bus 2,Admin -> Academic-1
+Jim,230502727,IRE,Student Bus 1,Latifpur -> Admin
+Rakibul,230501515,SWE,Student Bus 2,Academic-2 -> Chandra
+Sharad Hasan,DSE_Lec6666542,DSE,Staff Car 2,UFTB campus -> JU campus
+Masud Rana,CySE_Lec2147843,CySE,Staff Car 1,UFTB Academic-1 -> Kaliakoir
+Shohanur Rahaman,2305023,DSE,Student Bus 2,Mirpur -> Gazipur
+MD.Abul Ala Walid,DSE_Lec_3514262,DSE,Staff Car 2,UFTB Admin -> UFTB Academic
